@@ -1,0 +1,146 @@
+#home {
+	color: white;
+
+
+}
+
+.navbar-light .navbar-nav .nav-link {
+	
+	font-size: 20px;
+	
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+	color: white;
+	font-weight: bold;
+	border-radius: 8px;
+
+
+}
+
+.navbar{
+	padding: 20px;
+	background-image: linear-gradient(
+        to top left,
+        #dd1818,
+		black
+		
+    );
+}
+
+.container-fluid{
+	padding: 0;
+}
+
+#mainSlider .carousel-inner, #mainSlider .carousel-item {
+	height: 70vh;
+}
+
+#mainSlider .carousel-caption {
+	top: 72%;
+}
+
+#mainSlider .carousel-caption h2 {
+	font-size: 50px;
+	font-family:'Roboto', sans-serif;
+}
+
+.caixa {
+	padding: 100px 0;
+
+}
+
+.img-botoom{
+	margin-top: 100px;
+
+}
+
+footer{
+	height: 300px;
+	margin-top: 100px;
+	text-align: center;
+	background-image: linear-gradient(
+        to top left,
+        #dd1818,
+		black
+		
+    );
+
+}
+
+.h2-sobre-nos{
+	font-family: 'Lobster', cursive; 
+	font-size: 40px;
+}
+
+.h2-onde-estamos{
+	font-family: 'Lobster', cursive; 
+	font-size: 40px;
+
+}
+
+.h2-fale-conosco{
+	font-family: 'Lobster', cursive; 
+	font-size: 40px;
+	color: #3399ff;
+	font-weight: bold;
+
+}
+
+.rodape{
+	padding: 100px;
+	font-size: 40px;
+	color: white;
+	font-family: 'Lobster', cursive; 
+}
+
+.sobre-nos{
+	padding: 100px 0;
+}
+
+
+.fale-conosco {
+	padding: 100px 0;
+}
+
+input{
+	width: 400px;
+	height: 40px;
+	
+}
+
+textarea{
+	width: 300px;
+	height: 100px;
+	
+}
+
+button{
+	width: 100px;
+	height: 40px;
+	border-radius: 5px;
+	background:#3399ff;
+	color: white;
+	cursor: pointer;
+	font-size: 20px;
+}
+
+.img-whats{
+	position: fixed; 
+	bottom: 200px;
+	right: 5px;
+   
+ }
+
+button:hover{
+  background: #dd1818;
+ }
+
+ .h3-encomenda{
+	text-align: center;
+	font-size: 50px;
+	color: #3399ff;
+	margin-top: 10px;
+	font-weight: bold;
+ }
+
